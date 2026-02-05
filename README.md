@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Rahul <br>A 3rd-year Computer Science & Engineering student passionate about programming, development, and AI/ML.  <br>I enjoy solving algorithmic challenges, exploring compiler design, and building impactful software projects.  <br>Currently focused on mastering core CS concepts and sharpening my coding skills for interviews and <br>real-world applications.
+Hi, I'm Rahul <br>A 3rd-year Computer Science & Engineering student passionate about programming, development, and AI/ML.  <br>I enjoy solving algorithmic challenges and building impactful software projects.  <br>Currently focused on mastering core CS concepts and sharpening my coding skills for interviews and <br>real-world applications.
 
 
 ## 🌐 Socials:
