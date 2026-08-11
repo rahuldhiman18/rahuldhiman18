@@ -1,31 +1,76 @@
-# 💫 About Me:
-# Hi, I'm Rahul 👋
+Hey, I'm Rahul 👋
+Computer Science & Engineering Student · C++ · Systems · Backend
 
-Computer Science & Engineering student focused on **C++, Data Structures & Algorithms, and Systems Programming**.
+I'm a Computer Science student focused on building a strong foundation in C++ and software engineering.
 
-I enjoy building software from the ground up and understanding how things work under the hood.
+I enjoy understanding how software works under the hood — from memory, concurrency, and networking to operating systems, databases, and performance — and turning that understanding into real software.
 
-### Currently working on
-
-* 🧩 Data Structures & Algorithms in C++
-* 🌐 Systems & Networking projects
-* ⚙️ Concurrency and performance-oriented C++
-* 💻 Core CS fundamentals
-
-### Building
-
-* 🚀 High-Performance HTTP Server in C++
-* 🗄️ Persistent Key-Value Store in C++
 
 I'm interested in **Software Engineering, Systems, Backend Infrastructure, and Product Engineering**.
 
+🚀 Projects
+🔥 High-Performance HTTP Server
 
+C++ · TCP/IP · HTTP · Concurrency · Systems Programming
+
+Building an HTTP server from the ground up to understand how network servers work internally.
+
+Focus areas:
+
+TCP socket programming
+HTTP request/response processing
+Concurrent client handling
+Thread pools and synchronization
+Connection management
+Error handling and graceful shutdown
+Testing and debugging
+Benchmarking and performance analysis
+
+→ Repository
+
+🗄️ Persistent Key-Value Store
+
+C++ · Data Structures · File I/O · Storage · Concurrency
+
+Building a persistent key-value storage system to understand how storage engines work internally.
+
+Focus areas:
+
+In-memory data structures
+Persistent storage
+File I/O
+Serialization
+Data integrity
+Concurrency
+Performance measurement
+
+→ Repository
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahuldhimaannn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-dhiman001) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rd451693@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahuldhimaannn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rahul-dhiman001)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/rahuldhiman18/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rd451693@gmail.com)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+## 💻 Tech Stack
+
+### Languages
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Backend & Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=rahuldhiman18&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=rahuldhiman18&theme=dark&hide_border=false)<br/>
