@@ -1,4 +1,4 @@
-Hey, I'm Rahul 👋
+## Hey, I'm Rahul:
 Computer Science & Engineering Student · C++ · Systems · Backend
 
 I'm a Computer Science student focused on building a strong foundation in C++ and software engineering.
@@ -8,8 +8,8 @@ I enjoy understanding how software works under the hood — from memory, concurr
 
 I'm interested in **Software Engineering, Systems, Backend Infrastructure, and Product Engineering**.
 
-🚀 Projects
-🔥 High-Performance HTTP Server
+ ## Projects
+> **High-Performance HTTP Server**
 
 C++ · TCP/IP · HTTP · Concurrency · Systems Programming
 
@@ -28,7 +28,7 @@ Benchmarking and performance analysis
 
 → Repository
 
-🗄️ Persistent Key-Value Store
+2. **Persistent Key-Value Store**
 
 C++ · Data Structures · File I/O · Storage · Concurrency
 
@@ -44,7 +44,6 @@ Data integrity
 Concurrency
 Performance measurement
 
-→ Repository
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahuldhimaannn)
