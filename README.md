@@ -28,7 +28,7 @@ Benchmarking and performance analysis
 
 → Repository
 
-2. **Persistent Key-Value Store**
+> **Persistent Key-Value Store**
 
 C++ · Data Structures · File I/O · Storage · Concurrency
 
