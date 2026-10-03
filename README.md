@@ -8,24 +8,6 @@ I enjoy understanding how software works under the hood — from memory, concurr
 
 I'm interested in **Software Engineering, Systems, Backend Infrastructure, and Product Engineering**.
 
- ## Projects
-> **High-Performance HTTP Server**
-
-C++ · TCP/IP · HTTP · Concurrency · Systems Programming
-
-Building an HTTP server from the ground up to understand how network servers work internally.
-
-Focus areas:
-
-TCP socket programming
-HTTP request/response processing
-Concurrent client handling
-Thread pools and synchronization
-Connection management
-Error handling and graceful shutdown
-Testing and debugging
-Benchmarking and performance analysis
-
 → Repository
 
 > **Persistent Key-Value Store**
