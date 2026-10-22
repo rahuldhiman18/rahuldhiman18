@@ -1,5 +1,5 @@
 ## Hey, I'm Rahul:
-Computer Science & Engineering Student · C++ · Systems · Backend
+Computer Science & Engineering Student · Software engineer · Systems · Backend
 
 I'm a Computer Science student focused on building a strong foundation in C++ and software engineering.
 
