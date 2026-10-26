@@ -8,24 +8,6 @@ I enjoy understanding how software works under the hood — from memory, concurr
 
 I'm interested in **Software Engineering, Systems, Backend Infrastructure, and Product Engineering**.
 
-→ Repository
-
-> **Persistent Key-Value Store**
-
-C++ · Data Structures · File I/O · Storage · Concurrency
-
-Building a persistent key-value storage system to understand how storage engines work internally.
-
-Focus areas:
-
-In-memory data structures
-Persistent storage
-File I/O
-Serialization
-Data integrity
-Concurrency
-Performance measurement
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rahuldhimaannn)
